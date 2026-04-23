@@ -1,4 +1,5 @@
 Features
+
 🔍 Real-time search (with “No Dish Found” UI)
 
 🛒 Add to cart / Remove / Increase-Decrease quantity
@@ -20,6 +21,7 @@ Redux Toolkit
 Tailwind CSS
 
 💡 Highlights
+
 Efficient state management using Redux
 
 Real-world cart logic implementation
